@@ -1,0 +1,15 @@
+C:\Users\ADMIN\ToDoApp\ToDoApp.Application\bin\Debug\net7.0\ToDoApp.Application.deps.json
+C:\Users\ADMIN\ToDoApp\ToDoApp.Application\bin\Debug\net7.0\ToDoApp.Application.dll
+C:\Users\ADMIN\ToDoApp\ToDoApp.Application\bin\Debug\net7.0\ToDoApp.Application.pdb
+C:\Users\ADMIN\ToDoApp\ToDoApp.Application\bin\Debug\net7.0\ToDoApp.Core.dll
+C:\Users\ADMIN\ToDoApp\ToDoApp.Application\bin\Debug\net7.0\ToDoApp.Core.pdb
+C:\Users\ADMIN\ToDoApp\ToDoApp.Application\obj\Debug\net7.0\ToDoApp.Application.csproj.AssemblyReference.cache
+C:\Users\ADMIN\ToDoApp\ToDoApp.Application\obj\Debug\net7.0\ToDoApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\ToDoApp\ToDoApp.Application\obj\Debug\net7.0\ToDoApp.Application.AssemblyInfoInputs.cache
+C:\Users\ADMIN\ToDoApp\ToDoApp.Application\obj\Debug\net7.0\ToDoApp.Application.AssemblyInfo.cs
+C:\Users\ADMIN\ToDoApp\ToDoApp.Application\obj\Debug\net7.0\ToDoApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\ToDoApp\ToDoApp.Application\obj\Debug\net7.0\ToDoApp.Application.csproj.CopyComplete
+C:\Users\ADMIN\ToDoApp\ToDoApp.Application\obj\Debug\net7.0\ToDoApp.Application.dll
+C:\Users\ADMIN\ToDoApp\ToDoApp.Application\obj\Debug\net7.0\refint\ToDoApp.Application.dll
+C:\Users\ADMIN\ToDoApp\ToDoApp.Application\obj\Debug\net7.0\ToDoApp.Application.pdb
+C:\Users\ADMIN\ToDoApp\ToDoApp.Application\obj\Debug\net7.0\ref\ToDoApp.Application.dll
